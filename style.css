@@ -80,3 +80,15 @@ header {
   align-self: flex-end;
   flex: 2;
 }
+
+#staff div{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.staff-profile{
+  flex: 0 0 33%;
+  text-align: center;
+}
+
