@@ -81,7 +81,7 @@ header {
   flex: 2;
 }
 
-#staff div{
+#staff > div{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
